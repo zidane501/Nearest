@@ -8,7 +8,14 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+*.pdf
 web-build/
 
+Python/Tilbudsaviser
+.env
+Python/img
+Python/.ipynb_checkpoints
+Python/*.json
+Python/*.jpg
 # macOS
 .DS_Store
