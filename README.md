@@ -5,7 +5,7 @@ A mobile app in react native for finding the nearest of anything.
 The app is buil with expo, and should work if all files are cloned and buil to an .apk file.
 
 Once in the app, press the "Search" button,
-Pics/Screenshot1.png
+![Alt text](Pics/Screenshot1.png?raw=true "Intro screen")
 
 which will take you to a mapscreen.
 Pics/Screenshot2.png
