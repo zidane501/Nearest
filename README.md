@@ -18,5 +18,5 @@ Then write a number and the field below the searchbar will display the amount of
 
 I've also build a webscraper in Python for getting store locaions for different discount stores, and my ambition is in the future to make a search function for discount offers and locations.
 
-Recently I have made an algorithm for finding numbers that the google pic-to-text function doesn't find. I want to make a function that gets all the goods in the discount offers and adds the good and its price to a database. I made big progress by finding all the 1's from one page and their position.
+Recently I have made an algorithm for finding numbers that the google pic-to-text function doesn't find. I want to make a function that gets all the goods in the discount offers and adds the good and its price to a database. I made big progress by finding all the 1's from one page and their position. To show the 1s are selected a yellow border is added.
 ![Ones](Python/blackWhitePrice1.png?raw=true "Ones")
